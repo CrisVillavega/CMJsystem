@@ -1,2 +1,2 @@
 # Systema CMJ
-Es un software que tiene el objetivo de alivianar el trabajo de un leccheria, el estado actual de este es incompleto debido aque la granjo cambio de enfoque
+Es un software que daria soporte en la administracion de una finca lechera, el cual es de intalcion en escritorio, desarrollado en capas con conecion a una base de datos
